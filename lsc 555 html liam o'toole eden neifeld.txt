@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>O'Toole LSC555 Webpage</title>
+		<meta name="keywords" content="metadata libraries numerology"/>
+		<meta charset= "UTF-8" />
+
+	</head>
+	<body>
+		<h2><b>Metadata</b>, Libraries, and Numerology: A Primer</h2>
+		<p>This is a basic guide to the numerological implications of 			numbers in West African literature</p>
+		<a>"https://en.wikipedia.org/wiki/African_literature"</a>
+		<ul>
+			<li>Things Fall Apart</li>
+			<li>Americanah</li>
+			<li>Oromay</li>
+		</ul>
+	</body>
